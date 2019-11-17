@@ -5,8 +5,8 @@ from os import path
 
 import sched, time
 
-account_sid = 'AC578a4f4f9e20c6bbccc15a3a753fc4a9'
-auth_token = '947f379bd641dd1983306bf7816e8dc7'
+account_sid = ''
+auth_token = ''
 client = Client(account_sid, auth_token)
 
 inputdir = "input.txt"
